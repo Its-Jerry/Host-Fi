@@ -47,7 +47,8 @@ This tool is tested on :
 
 - Step 3 Then You see a Host-Fi icon on your Desktop. 
          Then run it by Right click on it. 
-         And Run It As Adminstrator. And use it. 
+         And Run It As Adminstrator or you can use shortcut key also.
+         Now your tool will start.
     
 ## Screenshot
 ![Alt text](Help/Screenshot/demo.PNG)
