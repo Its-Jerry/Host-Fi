@@ -37,7 +37,7 @@ This tool is tested on :
 - Step 1. Clone the code by git clone. 
 
 ```bash  
-    git clone https://github.com/Its-Jerry/Host-Fi.git 
+git clone https://github.com/Its-Jerry/Host-Fi.git 
 ```
 ( You can also download the zip file directly. )
 
